@@ -12,6 +12,8 @@
 
 Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in Computer Science. I design, build and run the platforms that institutions depend on: learning systems, management information systems, ERPs and the servers, pipelines and AI features behind them.
 
+> **Currently:** building AI features and resilient infrastructure for SOMAS · shipping the Mema Skills RPL platform · completing my MSc in Computer Science.
+
 ## 🔭 What I do
 
 - **Systems & server administration:** Linux, hardening, monitoring, backups, disaster recovery, warm and cold mirror servers.
@@ -70,13 +72,31 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 |:---:|:---:|:---:|:---:|:---:|
 | Understand the problem, users and constraints | Architecture, data model and a clear plan | Iterative delivery with version control and CI | Security, backups, monitoring and load testing | Documentation, training and ongoing support |
 
+## 🔍 Engineering practices
+
+| Practice | How I apply it |
+|---|---|
+| **Issues** | Every change starts as a tracked issue with scope, acceptance criteria and priority. |
+| **Pull requests** | Small, reviewable branches. Nothing reaches `main` without a PR and passing checks. |
+| **Code review** | Review for correctness, security, performance and readability. Feedback is specific and actionable. |
+| **CI/CD** | Automated tests, linting and deploys on every merge. Rollback plan before release. |
+| **Documentation** | Runbooks, architecture notes and handover docs kept in the repo. |
+
 ## 🎓 Credentials
 
 <p align="center">
   <img src="assets/credentials.svg" alt="MSc Computer Science (in progress), IBM AI Certification, Huawei HCIA" width="100%" />
 </p>
 
+## ✅ Why work with me
+
+- **I run what I build.** Delivery includes hosting, monitoring, backups and support.
+- **Security and recovery from day one.** Hardening, tested backups and mirror servers are part of the scope.
+- **Training included.** Your team can operate the system after handover.
+
 ## 🤝 Let's work together
+
+![Availability](https://img.shields.io/badge/Availability-Open%20for%20consulting-10FF10?style=flat-square)
 
 Open to consulting, training and collaboration in systems engineering, DevOps, full-stack development and AI integration. Tell me the problem and the timeline.
 
