@@ -64,11 +64,17 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 | [chirunAutoconverter](https://github.com/Dev-Ouma/chirunAutoconverter) | Compiles LaTeX course notes into accessible HTML with Chirun |
 | [OUK-PT-SOP](https://github.com/Dev-Ouma/OUK-PT-SOP) | Part-time lecturers' onboarding SOP, published as a site |
 
+## 🧭 How I work
+
+| 1 · Discover | 2 · Design | 3 · Build | 4 · Harden | 5 · Hand over |
+|:---:|:---:|:---:|:---:|:---:|
+| Understand the problem, users and constraints | Architecture, data model and a clear plan | Iterative delivery with version control and CI | Security, backups, monitoring and load testing | Documentation, training and ongoing support |
+
 ## 🎓 Credentials
 
-- MSc Computer Science (in progress)
-- IBM AI certification
-- Huawei HCIA
+<p align="center">
+  <img src="assets/credentials.svg" alt="MSc Computer Science (in progress), IBM AI Certification, Huawei HCIA" width="100%" />
+</p>
 
 ## 🤝 Let's work together
 
