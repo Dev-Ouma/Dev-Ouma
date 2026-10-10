@@ -23,96 +23,38 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 
 ## 🧰 Tech stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=10FF10&center=true&vCenter=true&width=700&lines=%24+ls+~%2Fstack;Build.+Ship.+Secure.+Scale.;From+bare+metal+to+AI+agents" alt="Typing banner" />
-</p>
-
-<h4 align="center">🖥️ Platforms</h4>
 <table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=apple&theme=dark" width="48" alt="macOS" /><br><b>macOS</b><br><sub>Daily driver</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" alt="Windows" /><br><b>Windows</b><br><sub>Meets users</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" /><br><b>Linux</b><br><sub>Home turf</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48" alt="Ubuntu" /><br><b>Ubuntu</b><br><sub>Server of choice</sub></td>
+    <td><sub><b>Platforms</b></sub></td>
+    <td><table><tr><td align="center" title="Daily driver"><img src="https://skillicons.dev/icons?i=apple&theme=dark" width="28" alt="macOS" /><br><sub>macOS</sub></td><td align="center" title="Meets users"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="28" alt="Windows" /><br><sub>Windows</sub></td><td align="center" title="Home turf"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="28" alt="Linux" /><br><sub>Linux</sub></td><td align="center" title="Server of choice"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="28" alt="Ubuntu" /><br><sub>Ubuntu</sub></td></tr></table></td>
   </tr>
-</table>
-
-<h4 align="center">🎨 Frontend</h4>
-<table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" /><br><b>React</b><br><sub>Component craft</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" alt="Next.js" /><br><b>Next.js</b><br><sub>Ship fast</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" alt="Flutter" /><br><b>Flutter</b><br><sub>One code, all screens</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind" /><br><b>Tailwind</b><br><sub>Style at speed</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" /><br><b>HTML5</b><br><sub>The bones</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" /><br><b>CSS3</b><br><sub>The polish</sub></td>
+    <td><sub><b>Frontend</b></sub></td>
+    <td><table><tr><td align="center" title="Component craft"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="28" alt="React" /><br><sub>React</sub></td><td align="center" title="Ship fast"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="28" alt="Next.js" /><br><sub>Next.js</sub></td><td align="center" title="One code, all screens"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="28" alt="Flutter" /><br><sub>Flutter</sub></td><td align="center" title="Style at speed"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="28" alt="Tailwind" /><br><sub>Tailwind</sub></td><td align="center" title="The bones"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="28" alt="HTML" /><br><sub>HTML</sub></td><td align="center" title="The polish"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="28" alt="CSS" /><br><sub>CSS</sub></td></tr></table></td>
   </tr>
-</table>
-
-<h4 align="center">⚙️ Languages</h4>
-<table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" /><br><b>JavaScript</b><br><sub>Runs everywhere</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" /><br><b>TypeScript</b><br><sub>Types, tamed</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" /><br><b>Python</b><br><sub>Glue and brains</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" alt="PHP" /><br><b>PHP</b><br><sub>Moodle's mother tongue</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" alt="C#" /><br><b>C#</b><br><sub>Enterprise grade</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48" alt="Dart" /><br><b>Dart</b><br><sub>Flutter's voice</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" alt="Bash" /><br><b>Bash</b><br><sub>Automate it all</sub></td>
+    <td><sub><b>Languages</b></sub></td>
+    <td><table><tr><td align="center" title="Runs everywhere"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="28" alt="JS" /><br><sub>JS</sub></td><td align="center" title="Types, tamed"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="28" alt="TS" /><br><sub>TS</sub></td><td align="center" title="Glue and brains"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="28" alt="Python" /><br><sub>Python</sub></td><td align="center" title="Moodle's mother tongue"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="28" alt="PHP" /><br><sub>PHP</sub></td><td align="center" title="Enterprise grade"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="28" alt="C#" /><br><sub>C#</sub></td><td align="center" title="Flutter's voice"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="28" alt="Dart" /><br><sub>Dart</sub></td><td align="center" title="Automate it all"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="28" alt="Bash" /><br><sub>Bash</sub></td></tr></table></td>
   </tr>
-</table>
-
-<h4 align="center">🧱 Backend</h4>
-<table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" alt="Laravel" /><br><b>Laravel</b><br><sub>Elegant PHP</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js" /><br><b>Node.js</b><br><sub>Event-driven</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" alt="Django" /><br><b>Django</b><br><sub>Batteries included</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" alt="FastAPI" /><br><b>FastAPI</b><br><sub>Async APIs</sub></td>
+    <td><sub><b>Backend</b></sub></td>
+    <td><table><tr><td align="center" title="Elegant PHP"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="28" alt="Laravel" /><br><sub>Laravel</sub></td><td align="center" title="Event-driven"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="28" alt="Node" /><br><sub>Node</sub></td><td align="center" title="Batteries included"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="28" alt="Django" /><br><sub>Django</sub></td><td align="center" title="Async APIs"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="28" alt="FastAPI" /><br><sub>FastAPI</sub></td></tr></table></td>
   </tr>
-</table>
-
-<h4 align="center">🗄️ Databases</h4>
-<table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" /><br><b>MySQL</b><br><sub>Moodle's memory</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" /><br><b>PostgreSQL</b><br><sub>Rock-solid data</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" alt="Redis" /><br><b>Redis</b><br><sub>Instant cache</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" alt="SQLite" /><br><b>SQLite</b><br><sub>Tiny and mighty</sub></td>
+    <td><sub><b>Data</b></sub></td>
+    <td><table><tr><td align="center" title="Moodle's memory"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="28" alt="MySQL" /><br><sub>MySQL</sub></td><td align="center" title="Rock-solid data"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="28" alt="Postgres" /><br><sub>Postgres</sub></td><td align="center" title="Instant cache"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="28" alt="Redis" /><br><sub>Redis</sub></td><td align="center" title="Tiny and mighty"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="28" alt="SQLite" /><br><sub>SQLite</sub></td></tr></table></td>
   </tr>
-</table>
-
-<h4 align="center">🚀 DevOps & Cloud</h4>
-<table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" /><br><b>Docker</b><br><sub>Ship anywhere</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" alt="Nginx" /><br><b>Nginx</b><br><sub>Traffic cop</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" alt="Actions" /><br><b>Actions</b><br><sub>CI/CD on rails</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" alt="AWS" /><br><b>AWS</b><br><sub>Cloud muscle</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" alt="Google Cloud" /><br><b>Google Cloud</b><br><sub>Cloud brains</sub></td>
+    <td><sub><b>DevOps</b></sub></td>
+    <td><table><tr><td align="center" title="Ship anywhere"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="28" alt="Docker" /><br><sub>Docker</sub></td><td align="center" title="Traffic cop"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="28" alt="Nginx" /><br><sub>Nginx</sub></td><td align="center" title="CI/CD on rails"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="28" alt="Actions" /><br><sub>Actions</sub></td><td align="center" title="Cloud muscle"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="28" alt="AWS" /><br><sub>AWS</sub></td><td align="center" title="Cloud brains"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="28" alt="GCP" /><br><sub>GCP</sub></td></tr></table></td>
   </tr>
-</table>
-
-<h4 align="center">🛠️ Tools</h4>
-<table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" /><br><b>Git</b><br><sub>Time machine</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /><br><b>GitHub</b><br><sub>Home of code</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" /><br><b>Postman</b><br><sub>API playground</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" /><br><b>Figma</b><br><sub>Design first</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" /><br><b>VS Code</b><br><sub>Command centre</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=xcode&theme=dark" width="48" alt="Xcode" /><br><b>Xcode</b><br><sub>Apple forge</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="48" alt="WordPress" /><br><b>WordPress</b><br><sub>Sites, quickly</sub></td>
+    <td><sub><b>Tools</b></sub></td>
+    <td><table><tr><td align="center" title="Time machine"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="28" alt="Git" /><br><sub>Git</sub></td><td align="center" title="Home of code"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="28" alt="GitHub" /><br><sub>GitHub</sub></td><td align="center" title="API playground"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="28" alt="Postman" /><br><sub>Postman</sub></td><td align="center" title="Design first"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="28" alt="Figma" /><br><sub>Figma</sub></td><td align="center" title="Command centre"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="28" alt="VS Code" /><br><sub>VS Code</sub></td><td align="center" title="Apple forge"><img src="https://skillicons.dev/icons?i=xcode&theme=dark" width="28" alt="Xcode" /><br><sub>Xcode</sub></td><td align="center" title="Sites, quickly"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="28" alt="WP" /><br><sub>WP</sub></td></tr></table></td>
   </tr>
-</table>
-
-<h4 align="center">🎓 Learning &amp; AI</h4>
-<table align="center">
   <tr>
-    <td align="center" width="140"><img src="https://img.shields.io/badge/-Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle" /><br><sub>Learning, engineered</sub></td>
-    <td align="center" width="140"><img src="https://img.shields.io/badge/-LLMs-10FF10?style=for-the-badge&logo=anthropic&logoColor=black" alt="LLMs" /><br><sub>Models that work</sub></td>
-    <td align="center" width="140"><img src="https://img.shields.io/badge/-AI%20Agents-7e22ce?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" /><br><sub>Workflows on autopilot</sub></td>
-    <td align="center" width="140"><img src="https://img.shields.io/badge/-Jaseci-0a3d62?style=for-the-badge" alt="Jaseci" /><br><sub>AI-native programming</sub></td>
+    <td><sub><b>Learning &amp; AI</b></sub></td>
+    <td><sub>Moodle · LLM integration · AI agents · Jaseci</sub></td>
   </tr>
 </table>
 
