@@ -66,9 +66,9 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 
 ## 🧭 How I work
 
-| 1 · Discover | 2 · Design | 3 · Build | 4 · Harden | 5 · Hand over |
-|:---:|:---:|:---:|:---:|:---:|
-| Understand the problem, users and constraints | Architecture, data model and a clear plan | Iterative delivery with version control and CI | Security, backups, monitoring and load testing | Documentation, training and ongoing support |
+<p align="center">
+  <img src="assets/roadmap.svg" alt="Roadmap: Discover, Design, Build, Harden, Hand over" width="100%" />
+</p>
 
 ## 🎓 Credentials
 
