@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.devouma.com/"><img src="https://img.shields.io/badge/Website-devouma.com-10FF10?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/godfrey-godson"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gee.mwerevu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:gee.mwerevu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 👋 Hi, I'm DevOuma
@@ -75,7 +75,7 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 Open to consulting, training and collaboration in systems engineering, DevOps, full-stack development and AI integration. Tell me the problem and the timeline.
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gee.mwerevu@gmail.com&su=Project%20enquiry&body=Hi%20DevOuma%2C%0A%0AI%27d%20like%20to%20discuss..."><img src="https://img.shields.io/badge/Start%20a%20conversation-10FF10?style=for-the-badge&logo=gmail&logoColor=black" alt="Email me" /></a>
+  <a href="mailto:gee.mwerevu@gmail.com?subject=Project%20enquiry&body=Hi%20DevOuma%2C%0A%0AI%27d%20like%20to%20discuss..."><img src="https://img.shields.io/badge/Start%20a%20conversation-10FF10?style=for-the-badge&logo=gmail&logoColor=black" alt="Email me" /></a>
 </p>
 
 <p align="center">
