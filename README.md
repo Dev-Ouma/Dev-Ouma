@@ -23,20 +23,71 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 
 ## 🧰 Tech stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/OS-Mac-7e22ce?style=flat&labelColor=555555&logo=apple&logoColor=white" alt="OS Mac" />
+  <img src="https://img.shields.io/badge/OS-Windows-7e22ce?style=flat&labelColor=555555&logo=windows&logoColor=white" alt="OS Windows" />
+  <img src="https://img.shields.io/badge/OS-Linux-7e22ce?style=flat&labelColor=555555&logo=linux&logoColor=white" alt="OS Linux" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React-7e22ce?style=flat&labelColor=555555&logo=react&logoColor=white" alt="Frontend React" />
+  <img src="https://img.shields.io/badge/Frontend-Flutter-7e22ce?style=flat&labelColor=555555&logo=flutter&logoColor=white" alt="Frontend Flutter" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-7e22ce?style=flat&labelColor=555555&logo=nextdotjs&logoColor=white" alt="Frontend Next.js" />
+  <img src="https://img.shields.io/badge/Frontend-Tailwind%20CSS-7e22ce?style=flat&labelColor=555555&logo=tailwindcss&logoColor=white" alt="Frontend Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Code-HTML5-7e22ce?style=flat&labelColor=555555&logo=html5&logoColor=white" alt="Code HTML5" />
+  <img src="https://img.shields.io/badge/Code-CSS3-7e22ce?style=flat&labelColor=555555&logo=css3&logoColor=white" alt="Code CSS3" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Code-JavaScript-7e22ce?style=flat&labelColor=555555&logo=javascript&logoColor=white" alt="Code JavaScript" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-7e22ce?style=flat&labelColor=555555&logo=typescript&logoColor=white" alt="Code TypeScript" />
+  <img src="https://img.shields.io/badge/Code-Dart-7e22ce?style=flat&labelColor=555555&logo=dart&logoColor=white" alt="Code Dart" />
+  <img src="https://img.shields.io/badge/Code-Python-7e22ce?style=flat&labelColor=555555&logo=python&logoColor=white" alt="Code Python" />
+  <img src="https://img.shields.io/badge/Code-PHP-7e22ce?style=flat&labelColor=555555&logo=php&logoColor=white" alt="Code PHP" />
+  <img src="https://img.shields.io/badge/Code-C%23-7e22ce?style=flat&labelColor=555555&logo=dotnet&logoColor=white" alt="Code C#" />
+  <img src="https://img.shields.io/badge/Code-Bash-7e22ce?style=flat&labelColor=555555&logo=gnubash&logoColor=white" alt="Code Bash" />
+  <img src="https://img.shields.io/badge/Code-SQL-7e22ce?style=flat&labelColor=555555&logo=postgresql&logoColor=white" alt="Code SQL" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Laravel-7e22ce?style=flat&labelColor=555555&logo=laravel&logoColor=white" alt="Backend Laravel" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-7e22ce?style=flat&labelColor=555555&logo=nodedotjs&logoColor=white" alt="Backend Node.js" />
+  <img src="https://img.shields.io/badge/Backend-Django-7e22ce?style=flat&labelColor=555555&logo=django&logoColor=white" alt="Backend Django" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-7e22ce?style=flat&labelColor=555555&logo=fastapi&logoColor=white" alt="Backend FastAPI" />
+  <img src="https://img.shields.io/badge/API-REST-7e22ce?style=flat&labelColor=555555&logo=postman&logoColor=white" alt="API REST" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DB-MySQL-7e22ce?style=flat&labelColor=555555&logo=mysql&logoColor=white" alt="DB MySQL" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-7e22ce?style=flat&labelColor=555555&logo=postgresql&logoColor=white" alt="DB PostgreSQL" />
+  <img src="https://img.shields.io/badge/DB-Redis-7e22ce?style=flat&labelColor=555555&logo=redis&logoColor=white" alt="DB Redis" />
+  <img src="https://img.shields.io/badge/DB-SQLite-7e22ce?style=flat&labelColor=555555&logo=sqlite&logoColor=white" alt="DB SQLite" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DevOps-Docker-7e22ce?style=flat&labelColor=555555&logo=docker&logoColor=white" alt="DevOps Docker" />
+  <img src="https://img.shields.io/badge/DevOps-Nginx-7e22ce?style=flat&labelColor=555555&logo=nginx&logoColor=white" alt="DevOps Nginx" />
+  <img src="https://img.shields.io/badge/DevOps-GitHub%20Actions-7e22ce?style=flat&labelColor=555555&logo=githubactions&logoColor=white" alt="DevOps GitHub Actions" />
+  <img src="https://img.shields.io/badge/DevOps-Ubuntu-7e22ce?style=flat&labelColor=555555&logo=ubuntu&logoColor=white" alt="DevOps Ubuntu" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-7e22ce?style=flat&labelColor=555555&logo=amazonwebservices&logoColor=white" alt="Cloud AWS" />
+  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-7e22ce?style=flat&labelColor=555555&logo=googlecloud&logoColor=white" alt="Cloud Google Cloud" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LMS-Moodle-7e22ce?style=flat&labelColor=555555&logo=moodle&logoColor=white" alt="LMS Moodle" />
+  <img src="https://img.shields.io/badge/CMS-WordPress-7e22ce?style=flat&labelColor=555555&logo=wordpress&logoColor=white" alt="CMS WordPress" />
+  <img src="https://img.shields.io/badge/AI-LLMs-7e22ce?style=flat&labelColor=555555&logo=anthropic&logoColor=white" alt="AI LLMs" />
+  <img src="https://img.shields.io/badge/AI-Jaseci-7e22ce?style=flat&labelColor=555555" alt="AI Jaseci" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Tools-Git-7e22ce?style=flat&labelColor=555555&logo=git&logoColor=white" alt="Tools Git" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-7e22ce?style=flat&labelColor=555555&logo=github&logoColor=white" alt="Tools GitHub" />
+  <img src="https://img.shields.io/badge/Tools-Postman-7e22ce?style=flat&labelColor=555555&logo=postman&logoColor=white" alt="Tools Postman" />
+  <img src="https://img.shields.io/badge/Tools-Figma-7e22ce?style=flat&labelColor=555555&logo=figma&logoColor=white" alt="Tools Figma" />
+  <img src="https://img.shields.io/badge/IDE-VSCode-7e22ce?style=flat&labelColor=555555&logo=visualstudiocode&logoColor=white" alt="IDE VSCode" />
+  <img src="https://img.shields.io/badge/IDE-Xcode-7e22ce?style=flat&labelColor=555555&logo=xcode&logoColor=white" alt="IDE Xcode" />
+</p>
 
 ## 🧠 Skills
 
