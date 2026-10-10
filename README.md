@@ -16,7 +16,7 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 
 - **Systems & server administration:** Linux, hardening, monitoring, backups, disaster recovery, warm and cold mirror servers.
 - **Full-stack development:** web applications, APIs, payment integrations and admin CMSs.
-- **LMS engineering:** Moodle administration, plugins, themes, automation and performance tuning.
+- **LMS engineering:** platform-agnostic, with Moodle as the deepest specialism (administration, plugins, themes, automation, performance tuning) alongside Canvas, Open edX, Blackboard and custom-built LMS. Standards and integration: SCORM, xAPI, LTI, SSO, REST APIs and SIS/ERP connectors.
 - **DevOps & automation:** containers, CI/CD, scripting and workflow automation.
 - **AI integration:** LLM integration, chatbots, agents, prompt and context engineering.
 - **IT consulting:** architecture, change management, ITIL service management, training and support.
@@ -96,7 +96,7 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
   </tr>
   <tr>
     <td><sub><b>Learning &amp; AI</b></sub></td>
-    <td align="center" colspan="7"><sub>Moodle · LLM integration · AI agents · Jaseci</sub></td>
+    <td align="center" colspan="7"><sub>Moodle · Canvas · Open edX · Custom LMS · LTI · SCORM · xAPI · LLM integration · AI agents · Jaseci</sub></td>
   </tr>
 </table>
 
@@ -109,7 +109,7 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 | **Engineering** | Full-stack and web development, API integration, DevOps, containerisation, automation and scripting |
 | **Design** | Web design, UI/UX, graphic design, SEO |
 | **AI** | Prompt engineering, context engineering, LLM integration, AI chatbots and agents, AI workflow automation, AI-assisted content development |
-| **Learning systems** | LMS administration, Moodle automation, eLearning platforms |
+| **Learning systems** | LMS administration and engineering (Moodle, Canvas, Open edX, Blackboard, custom LMS), SCORM / xAPI / LTI, SSO and SIS integration, eLearning platforms |
 | **Practice** | Technical documentation, IT project management, change management, ITIL, risk management, user training |
 
 ## 🚧 Current projects
