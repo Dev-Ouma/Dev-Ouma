@@ -67,7 +67,7 @@ Computer scientist and systems engineer in Nairobi, Kenya, completing an MSc in 
 ## 🧭 How I work
 
 <p align="center">
-  <img src="assets/roadmap.svg" alt="Roadmap: Discover, Design, Build, Harden, Hand over" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dev-Ouma/Dev-Ouma/main/assets/roadmap.svg?v=2" alt="Roadmap: Discover, Design, Build, Harden, Hand over" width="840" />
 </p>
 
 ## 🎓 Credentials
