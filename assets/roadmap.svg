@@ -1,81 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="540" viewBox="0 0 840 540" role="img" aria-label="How I work: Discover, Design, Build, Harden, Hand over">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="128" viewBox="0 0 840 128" role="img" aria-label="How I work: Discover, Design, Build, Harden, Hand over">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d0221"/><stop offset="1" stop-color="#0a3d62"/></linearGradient>
-<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2f45"/><stop offset="1" stop-color="#11142a"/></linearGradient>
-<filter id="sh" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000" flood-opacity=".6"/></filter>
-<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<path id="road" d="M50,460 C240,460 240,330 420,330 C600,330 600,190 790,190"/>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#000" flood-opacity=".6"/></filter>
+<path id="road" d="M18,40 L822,40"/>
 </defs>
 <style>
 .f{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif}
 .dash{animation:mv 1.2s linear infinite}@keyframes mv{to{stroke-dashoffset:-26}}
-.pulse{animation:pl 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes pl{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}
 </style>
-<rect width="840" height="540" rx="20" fill="url(#bg)"/>
-<g opacity=".22" stroke="#10FF10" stroke-width=".6"><line x1="0" y1="0" x2="0" y2="540"/><line x1="40" y1="0" x2="40" y2="540"/><line x1="80" y1="0" x2="80" y2="540"/><line x1="120" y1="0" x2="120" y2="540"/><line x1="160" y1="0" x2="160" y2="540"/><line x1="200" y1="0" x2="200" y2="540"/><line x1="240" y1="0" x2="240" y2="540"/><line x1="280" y1="0" x2="280" y2="540"/><line x1="320" y1="0" x2="320" y2="540"/><line x1="360" y1="0" x2="360" y2="540"/><line x1="400" y1="0" x2="400" y2="540"/><line x1="440" y1="0" x2="440" y2="540"/><line x1="480" y1="0" x2="480" y2="540"/><line x1="520" y1="0" x2="520" y2="540"/><line x1="560" y1="0" x2="560" y2="540"/><line x1="600" y1="0" x2="600" y2="540"/><line x1="640" y1="0" x2="640" y2="540"/><line x1="680" y1="0" x2="680" y2="540"/><line x1="720" y1="0" x2="720" y2="540"/><line x1="760" y1="0" x2="760" y2="540"/><line x1="800" y1="0" x2="800" y2="540"/><line x1="840" y1="0" x2="840" y2="540"/><line x1="0" y1="0" x2="840" y2="0"/><line x1="0" y1="40" x2="840" y2="40"/><line x1="0" y1="80" x2="840" y2="80"/><line x1="0" y1="120" x2="840" y2="120"/><line x1="0" y1="160" x2="840" y2="160"/><line x1="0" y1="200" x2="840" y2="200"/><line x1="0" y1="240" x2="840" y2="240"/><line x1="0" y1="280" x2="840" y2="280"/><line x1="0" y1="320" x2="840" y2="320"/><line x1="0" y1="360" x2="840" y2="360"/><line x1="0" y1="400" x2="840" y2="400"/><line x1="0" y1="440" x2="840" y2="440"/><line x1="0" y1="480" x2="840" y2="480"/><line x1="0" y1="520" x2="840" y2="520"/></g>
-<use href="#road" fill="none" stroke="#000" stroke-opacity=".55" stroke-width="58" stroke-linecap="round" transform="translate(0,14)" filter="url(#sh)"/>
-<use href="#road" fill="none" stroke="#06070f" stroke-width="58" stroke-linecap="round" transform="translate(0,10)"/>
-<use href="#road" fill="none" stroke="#9aa3c0" stroke-width="54" stroke-linecap="round"/>
-<use href="#road" fill="none" stroke="#1b1e2b" stroke-width="46" stroke-linecap="round"/>
-<use href="#road" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="20" stroke-linecap="round" transform="translate(0,-8)"/>
-<use class="dash" href="#road" fill="none" stroke="#ffd60a" stroke-width="3" stroke-dasharray="14 12"/>
+<rect width="840" height="128" rx="16" fill="url(#bg)"/>
+<use href="#road" stroke="#000" stroke-opacity=".6" stroke-width="30" stroke-linecap="round" transform="translate(0,8)" filter="url(#sh)"/>
+<use href="#road" stroke="#06070f" stroke-width="30" stroke-linecap="round" transform="translate(0,5)"/>
+<use href="#road" stroke="#9aa3c0" stroke-width="28" stroke-linecap="round"/>
+<use href="#road" stroke="#1b1e2b" stroke-width="22" stroke-linecap="round"/>
+<use href="#road" stroke="#fff" stroke-opacity=".08" stroke-width="8" stroke-linecap="round" transform="translate(0,-5)"/>
+<use class="dash" href="#road" stroke="#ffd60a" stroke-width="2" stroke-dasharray="12 10"/>
 <g>
-<line x1="120" y1="453" x2="120" y2="395" stroke="#10FF10" stroke-width="2" stroke-dasharray="3 4" opacity=".8"/>
-<g filter="url(#sh)"><rect x="10" y="329" width="252" height="66" rx="12" fill="url(#card)" stroke="#10FF10" stroke-width="1.8"/></g>
-<rect x="12" y="331" width="248" height="33" rx="10" fill="#fff" opacity=".07"/>
-<text class="f" x="24" y="356" font-size="17" font-weight="800" fill="#10FF10">Discover</text>
-<text class="f" x="24" y="379" font-size="11.5" fill="#d7dcf0">Understand problem, users, constraints</text>
-<g filter="url(#glow)"><circle class="pulse" cx="120" cy="453" r="21" fill="#10FF10" opacity=".25"/></g>
-<circle cx="120" cy="457" r="16" fill="#000" opacity=".55"/>
-<circle cx="120" cy="453" r="16" fill="#10FF10" stroke="#fff" stroke-width="2"/>
-<text class="f" x="120" y="459" text-anchor="middle" font-size="16" font-weight="900" fill="#0d0221">1</text>
+<circle cx="84" cy="43" r="13" fill="#000" opacity=".55"/>
+<circle cx="84" cy="40" r="13" fill="#10FF10" stroke="#fff" stroke-width="2" filter="url(#sh)"/>
+<text class="f" x="84" y="45" text-anchor="middle" font-size="14" font-weight="900" fill="#0d0221">1</text>
+<text class="f" x="84" y="86" text-anchor="middle" font-size="15" font-weight="800" fill="#10FF10">Discover</text>
+<text class="f" x="84" y="104" text-anchor="middle" font-size="11" fill="#d7dcf0">Problem, users, scope</text>
 </g>
 <g>
-<line x1="272" y1="372" x2="272" y2="430" stroke="#00d4ff" stroke-width="2" stroke-dasharray="3 4" opacity=".8"/>
-<g filter="url(#sh)"><rect x="146" y="430" width="252" height="66" rx="12" fill="url(#card)" stroke="#00d4ff" stroke-width="1.8"/></g>
-<rect x="148" y="432" width="248" height="33" rx="10" fill="#fff" opacity=".07"/>
-<text class="f" x="160" y="457" font-size="17" font-weight="800" fill="#00d4ff">Design</text>
-<text class="f" x="160" y="480" font-size="11.5" fill="#d7dcf0">Architecture, data model, clear plan</text>
-<g filter="url(#glow)"><circle class="pulse" cx="272" cy="372" r="21" fill="#00d4ff" opacity=".25"/></g>
-<circle cx="272" cy="376" r="16" fill="#000" opacity=".55"/>
-<circle cx="272" cy="372" r="16" fill="#00d4ff" stroke="#fff" stroke-width="2"/>
-<text class="f" x="272" y="378" text-anchor="middle" font-size="16" font-weight="900" fill="#0d0221">2</text>
+<circle cx="252" cy="43" r="13" fill="#000" opacity=".55"/>
+<circle cx="252" cy="40" r="13" fill="#00d4ff" stroke="#fff" stroke-width="2" filter="url(#sh)"/>
+<text class="f" x="252" y="45" text-anchor="middle" font-size="14" font-weight="900" fill="#0d0221">2</text>
+<text class="f" x="252" y="86" text-anchor="middle" font-size="15" font-weight="800" fill="#00d4ff">Design</text>
+<text class="f" x="252" y="104" text-anchor="middle" font-size="11" fill="#d7dcf0">Architecture &amp; plan</text>
 </g>
 <g>
-<line x1="420" y1="330" x2="420" y2="272" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="3 4" opacity=".8"/>
-<g filter="url(#sh)"><rect x="294" y="206" width="252" height="66" rx="12" fill="url(#card)" stroke="#8b5cf6" stroke-width="1.8"/></g>
-<rect x="296" y="208" width="248" height="33" rx="10" fill="#fff" opacity=".07"/>
-<text class="f" x="308" y="233" font-size="17" font-weight="800" fill="#8b5cf6">Build</text>
-<text class="f" x="308" y="256" font-size="11.5" fill="#d7dcf0">Iterative delivery with Git and CI/CD</text>
-<g filter="url(#glow)"><circle class="pulse" cx="420" cy="330" r="21" fill="#8b5cf6" opacity=".25"/></g>
-<circle cx="420" cy="334" r="16" fill="#000" opacity=".55"/>
-<circle cx="420" cy="330" r="16" fill="#8b5cf6" stroke="#fff" stroke-width="2"/>
-<text class="f" x="420" y="336" text-anchor="middle" font-size="16" font-weight="900" fill="#0d0221">3</text>
+<circle cx="420" cy="43" r="13" fill="#000" opacity=".55"/>
+<circle cx="420" cy="40" r="13" fill="#8b5cf6" stroke="#fff" stroke-width="2" filter="url(#sh)"/>
+<text class="f" x="420" y="45" text-anchor="middle" font-size="14" font-weight="900" fill="#0d0221">3</text>
+<text class="f" x="420" y="86" text-anchor="middle" font-size="15" font-weight="800" fill="#8b5cf6">Build</text>
+<text class="f" x="420" y="104" text-anchor="middle" font-size="11" fill="#d7dcf0">Git &amp; CI/CD delivery</text>
 </g>
 <g>
-<line x1="568" y1="285" x2="568" y2="343" stroke="#ff9f1c" stroke-width="2" stroke-dasharray="3 4" opacity=".8"/>
-<g filter="url(#sh)"><rect x="442" y="343" width="252" height="66" rx="12" fill="url(#card)" stroke="#ff9f1c" stroke-width="1.8"/></g>
-<rect x="444" y="345" width="248" height="33" rx="10" fill="#fff" opacity=".07"/>
-<text class="f" x="456" y="370" font-size="17" font-weight="800" fill="#ff9f1c">Harden</text>
-<text class="f" x="456" y="393" font-size="11.5" fill="#d7dcf0">Security, backups, monitoring, load tests</text>
-<g filter="url(#glow)"><circle class="pulse" cx="568" cy="285" r="21" fill="#ff9f1c" opacity=".25"/></g>
-<circle cx="568" cy="289" r="16" fill="#000" opacity=".55"/>
-<circle cx="568" cy="285" r="16" fill="#ff9f1c" stroke="#fff" stroke-width="2"/>
-<text class="f" x="568" y="291" text-anchor="middle" font-size="16" font-weight="900" fill="#0d0221">4</text>
+<circle cx="588" cy="43" r="13" fill="#000" opacity=".55"/>
+<circle cx="588" cy="40" r="13" fill="#ff9f1c" stroke="#fff" stroke-width="2" filter="url(#sh)"/>
+<text class="f" x="588" y="45" text-anchor="middle" font-size="14" font-weight="900" fill="#0d0221">4</text>
+<text class="f" x="588" y="86" text-anchor="middle" font-size="15" font-weight="800" fill="#ff9f1c">Harden</text>
+<text class="f" x="588" y="104" text-anchor="middle" font-size="11" fill="#d7dcf0">Security &amp; backups</text>
 </g>
 <g>
-<line x1="720" y1="197" x2="720" y2="139" stroke="#ff4d6d" stroke-width="2" stroke-dasharray="3 4" opacity=".8"/>
-<g filter="url(#sh)"><rect x="578" y="73" width="252" height="66" rx="12" fill="url(#card)" stroke="#ff4d6d" stroke-width="1.8"/></g>
-<rect x="580" y="75" width="248" height="33" rx="10" fill="#fff" opacity=".07"/>
-<text class="f" x="592" y="100" font-size="17" font-weight="800" fill="#ff4d6d">Hand over</text>
-<text class="f" x="592" y="123" font-size="11.5" fill="#d7dcf0">Docs, training, ongoing support</text>
-<g filter="url(#glow)"><circle class="pulse" cx="720" cy="197" r="21" fill="#ff4d6d" opacity=".25"/></g>
-<circle cx="720" cy="201" r="16" fill="#000" opacity=".55"/>
-<circle cx="720" cy="197" r="16" fill="#ff4d6d" stroke="#fff" stroke-width="2"/>
-<text class="f" x="720" y="203" text-anchor="middle" font-size="16" font-weight="900" fill="#0d0221">5</text>
+<circle cx="756" cy="43" r="13" fill="#000" opacity=".55"/>
+<circle cx="756" cy="40" r="13" fill="#ff4d6d" stroke="#fff" stroke-width="2" filter="url(#sh)"/>
+<text class="f" x="756" y="45" text-anchor="middle" font-size="14" font-weight="900" fill="#0d0221">5</text>
+<text class="f" x="756" y="86" text-anchor="middle" font-size="15" font-weight="800" fill="#ff4d6d">Hand over</text>
+<text class="f" x="756" y="104" text-anchor="middle" font-size="11" fill="#d7dcf0">Docs &amp; training</text>
 </g>
-<g filter="url(#sh)"><g><rect x="-14" y="-8" width="28" height="16" rx="5" fill="#10FF10"/><rect x="-6" y="-6" width="12" height="12" rx="3" fill="#0d0221" opacity=".7"/><circle cx="-8" cy="-9" r="3" fill="#000"/><circle cx="8" cy="-9" r="3" fill="#000"/><circle cx="-8" cy="9" r="3" fill="#000"/><circle cx="8" cy="9" r="3" fill="#000"/>
-<animateMotion dur="9s" repeatCount="indefinite" rotate="auto"><mpath href="#road"/></animateMotion></g></g>
-<text class="f" x="50" y="512" font-size="12" fill="#9aa3c0" letter-spacing="2">START</text>
-<text class="f" x="790" y="150" text-anchor="end" font-size="12" fill="#9aa3c0" letter-spacing="2">LIVE</text>
+<g filter="url(#sh)"><g><rect x="-11" y="-6" width="22" height="12" rx="4" fill="#10FF10"/><rect x="-4" y="-4.5" width="9" height="9" rx="2" fill="#0d0221" opacity=".7"/>
+<animateMotion dur="8s" repeatCount="indefinite" rotate="auto"><mpath href="#road"/></animateMotion></g></g>
 </svg>
